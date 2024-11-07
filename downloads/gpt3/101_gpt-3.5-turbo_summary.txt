@@ -1,0 +1,10 @@
+1. The speaker shares a recent incident where their log files stopped logging after making a change.
+2. They find it ironic because a change log is supposed to log changes, but it didn't in this case.
+3. The speaker takes responsibility for the issue and expresses a willingness to fix it.
+4. They acknowledge the importance of learning from their mistake and improving their understanding.
+5. The speaker requests the commit where the issue was introduced to analyze and address the problem.
+6. The incident highlights the significance of proper logging and the impact it can have on troubleshooting.
+7. The speaker demonstrates a proactive approach towards problem-solving and self-improvement.
+8. This incident also showcases the speaker's dedication to maintaining reliable and efficient systems.
+9. Identifying the commit will help in understanding what caused the logging to stop and prevent similar issues in the future. 
+10. Overall, the speaker's attitude reflects a responsible and growth-oriented mindset in handling technical challenges.

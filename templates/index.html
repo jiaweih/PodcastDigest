@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask App</title>
+</head>
+<body>
+    <h1>Enter URL</h1>
+    <form method="POST">
+        <label for="url">URL:</label>
+        <input type="text" id="url" name="url" value="{{ url }}" required>
+        <button type="submit">Submit</button>
+    </form>
+    <!-- <h2>Transcript</h2>
+    <div>{{ transcript }}</div> -->
+
+    <h2>Summary</h2>
+    <div>{{ summary }}</div>
+
+</body>
+</html>
+
+
