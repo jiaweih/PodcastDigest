@@ -1,6 +1,6 @@
-# Podcast Summarizer
+# Podcast Digest
 
-![Podcast Summarizer](https://user-images.githubusercontent.com/99987044/222886120-bc389e06-16bf-45e3-90a4-e7f62fd3b15b.png)
+![Podcast Digest](https://user-images.githubusercontent.com/99987044/222886120-bc389e06-16bf-45e3-90a4-e7f62fd3b15b.png)
 
 This is a python script that can download the audio for a given podcast source from either YouTube or Spotify, convert the speech to text via OpenAI's Whisper API, summarize the text via OpenAI's GPT3 API (using either the GPT3 chat model or GPT3 Davinci text model), and chunk everything to fit within the limits of Whisper and GPT3 APIs.
 
